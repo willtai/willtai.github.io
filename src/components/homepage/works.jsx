@@ -13,6 +13,20 @@ const Works = () => {
 				title="Work"
 				body={
 					<div className="works-body">
+						<a href="https://neo4j.com/" className="work-link">
+							<div className="work">
+								<img
+									src="./neo4j.jpg"
+									alt="neo4j"
+									className="work-image"
+								/>
+								<div className="work-title">Neo4j</div>
+								<div className="work-subtitle">
+									Senior Machine Learning Engineer
+								</div>
+							</div>
+						</a>
+
 						<a href="https://truelayer.com" className="work-link">
 							<div className="work">
 								<img
