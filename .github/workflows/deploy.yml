@@ -16,7 +16,7 @@ jobs:
     - name: Setup Node.js
       uses: actions/setup-node@v2
       with:
-        node-version: '14'
+        node-version: '20'
 
     - name: Install Dependencies
       run: npm install
@@ -29,4 +29,4 @@ jobs:
       with:
         branch: gh-pages
         folder: build
-        token: ${{ secrets.GITHUB_TOKEN }}
+        ssh-key: ${{ secrets.DEPLOY_KEY }}
