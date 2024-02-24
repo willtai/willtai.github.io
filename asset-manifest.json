@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "//willtai.github.io/static/css/main.4827d7ba.css",
-    "main.js": "//willtai.github.io/static/js/main.f7733d32.js",
+    "main.js": "//willtai.github.io/static/js/main.abc6720b.js",
     "static/js/787.a80e3641.chunk.js": "//willtai.github.io/static/js/787.a80e3641.chunk.js",
     "index.html": "//willtai.github.io/index.html",
     "main.4827d7ba.css.map": "//willtai.github.io/static/css/main.4827d7ba.css.map",
-    "main.f7733d32.js.map": "//willtai.github.io/static/js/main.f7733d32.js.map",
+    "main.abc6720b.js.map": "//willtai.github.io/static/js/main.abc6720b.js.map",
     "787.a80e3641.chunk.js.map": "//willtai.github.io/static/js/787.a80e3641.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4827d7ba.css",
-    "static/js/main.f7733d32.js"
+    "static/js/main.abc6720b.js"
   ]
 }
