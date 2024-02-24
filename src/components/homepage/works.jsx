@@ -13,29 +13,33 @@ const Works = () => {
 				title="Work"
 				body={
 					<div className="works-body">
-						<div className="work">
-							<img
-								src="./truelayer.png"
-								alt="truelayer"
-								className="work-image"
-							/>
-							<div className="work-title">TrueLayer</div>
-							<div className="work-subtitle">
-								Machine Learning Engineer
+						<a href="https://truelayer.com" className="work-link">
+							<div className="work">
+								<img
+									src="./truelayer.png"
+									alt="truelayer"
+									className="work-image"
+								/>
+								<div className="work-title">TrueLayer</div>
+								<div className="work-subtitle">
+									Machine Learning Engineer
+								</div>
 							</div>
-						</div>
+						</a>
 
-						<div className="work">
-							<img
-								src="./converge.png"
-								alt="converge"
-								className="work-image"
-							/>
-							<div className="work-title">Converge</div>
-							<div className="work-subtitle">
-								Data Scientist
+						<a href="https://converge.io" className="work-link">
+							<div className="work">
+								<img
+									src="./converge.png"
+									alt="converge"
+									className="work-image"
+								/>
+								<div className="work-title">Converge</div>
+								<div className="work-subtitle">
+									Data Scientist
+								</div>
 							</div>
-						</div>
+						</a>
 
 						<div className="work">
 							<img
