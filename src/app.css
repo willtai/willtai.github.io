@@ -121,3 +121,8 @@
 		width: 100%;
 	}
 }
+
+.work-link, .work-link:visited, .work-link:hover, .work-link:active {
+    text-decoration: none; /* Removes underline */
+    color: inherit; /* Optionally ensures the link color matches surrounding text */
+}
